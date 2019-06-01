@@ -1,0 +1,120 @@
+advogato:
+  diam: 9
+  m: 39285
+  n: 6539
+ca-AstroPh:
+  diam: 14
+  m: 198050
+  n: 18771
+ca-cit-HepPh:
+  diam: 9
+  m: 3148447
+  n: 28093
+ca-cit-HepTh:
+  diam: 9
+  m: 2444798
+  n: 22908
+cfinder-google:
+  diam: 7
+  m: 148585
+  n: 15763
+cit-HepPh:
+  diam: 14
+  m: 420877
+  n: 34546
+dblp-cite:
+  diam: 2
+  m: 49759
+  n: 49789
+dimacs9-BAY:
+  diam: 837
+  m: 397415
+  n: 321270
+dimacs9-COL:
+  diam: 1255
+  m: 521200
+  n: 435666
+edit-frwikibooks:
+  diam: 8
+  m: 139141
+  n: 47905
+edit-frwikinews:
+  diam: 7
+  m: 157970
+  n: 59546
+ego-facebook:
+  diam: 9
+  m: 2981
+  n: 2888
+ego-gplus:
+  diam: 8
+  m: 39194
+  n: 23628
+ego-twitter:
+  diam: 15
+  m: 32831
+  n: 23370
+facebook-wosn-wall:
+  diam: 18
+  m: 183412
+  n: 46952
+foldoc:
+  diam: 8
+  m: 91471
+  n: 13356
+loc-brightkite_edges:
+  diam: 18
+  m: 214078
+  n: 58228
+moreno_blogs:
+  diam: 8
+  m: 16715
+  n: 1224
+openflights:
+  diam: 13
+  m: 19256
+  n: 3425
+opsahl-powergrid:
+  diam: 46
+  m: 6594
+  n: 4941
+p2p-Gnutella04:
+  diam: 10
+  m: 39994
+  n: 10876
+p2p-Gnutella05:
+  diam: 9
+  m: 31839
+  n: 8846
+p2p-Gnutella08:
+  diam: 9
+  m: 20777
+  n: 6301
+p2p-Gnutella24:
+  diam: 11
+  m: 65369
+  n: 26518
+petster-hamster:
+  diam: 10
+  m: 16631
+  n: 2426
+roadNet-PA:
+  diam: 794
+  m: 1541898
+  n: 1088092
+roadNet-TX:
+  diam: 1064
+  m: 1921660
+  n: 1379917
+subelj_cora:
+  diam: 20
+  m: 89157
+  n: 23166
+twin:
+  diam: 25
+  m: 20573
+  n: 14274
+wiki-Vote:
+  diam: 7
+  m: 100762
+  n: 7115
